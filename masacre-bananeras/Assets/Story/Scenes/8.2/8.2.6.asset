@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 8.2.6
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "- Jorge y sus compa\xF1eros organizan manifestaciones pac\xEDficas, donde
+      se unen trabajadores de diferentes empresas y sectores. "
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: "- Los medios de comunicaci\xF3n informan sobre las protestas y el movimiento
+      liderado por Jorge para mejorar las condiciones laborales."
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: "- Jorge, ahora un s\xEDmbolo de la lucha obrera, celebra con sus compa\xF1eros
+      mientras ven c\xF3mo el jefe de la empresa es llevado bajo custodia."
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  background: {fileID: 21300000, guid: 8041b4740c1176140b171da607d9c30d, type: 3}
+  nextScene: {fileID: 11400000, guid: 7d6d9e3b13199f84c9cea9fd0aff2170, type: 2}

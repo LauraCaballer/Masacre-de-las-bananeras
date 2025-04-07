@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 9.1.5
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Las amo con todo mi coraz\xF3n\u2026 nos veremos en la ma\xF1ana"
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  background: {fileID: 21300000, guid: cd8319c54c2390f498c7aa7d36c35c1d, type: 3}
+  nextScene: {fileID: 11400000, guid: 6278aa73d6567844c9f803b9d46c7827, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 32
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: " \xA1Esto es inaceptable! \xA1No podemos permitir que nos traten as\xED!"
+    speaker: {fileID: 11400000, guid: f0249a8e6b855b945a0374db78585c70, type: 2}
+  - text: "\xA1No puedo creer que estemos trabajando tantas horas sin recibir una
+      compensaci\xF3n justa!"
+    speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+  - text: "Es cierto, estamos siendo explotados. Nuestro tiempo y esfuerzo no est\xE1n
+      siendo valorados."
+    speaker: {fileID: 11400000, guid: 2561f50956db1ac48a93886a5c3cd220, type: 2}
+  background: {fileID: 21300000, guid: 6da97d0f02b5b7a4f8d844b8c2a08611, type: 3}
+  nextScene: {fileID: 11400000, guid: 7767bd628e4a29249a1ca580f85f6a23, type: 2}

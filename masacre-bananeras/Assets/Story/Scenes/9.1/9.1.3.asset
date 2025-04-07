@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 9.1.3
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'Jorge, me preocupa que te pueden despedir si participas en esta protesta. '
+    speaker: {fileID: 11400000, guid: 1974653b2130bb1458cf1970899c5df8, type: 2}
+  - text: "Entiendo tus preocupaciones, pero tambi\xE9n creo que tenemos que luchar
+      por nuestros derechos. No podemos seguir siendo tratados injustamente. "
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  background: {fileID: 21300000, guid: d40bd8eea322b8d4e9df306e6c6eae67, type: 3}
+  nextScene: {fileID: 11400000, guid: 742168f8fcc33b44084c8dcadab0ac96, type: 2}

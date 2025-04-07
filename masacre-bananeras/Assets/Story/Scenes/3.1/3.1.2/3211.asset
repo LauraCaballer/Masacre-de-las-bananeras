@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 3211
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "No s\xE9 qu\xE9 puedo hacer, mi familia me necesita. Realmente me siento
+      desesperado.     "
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: "Creo que ser\xEDa beneficioso reunirnos en un lugar m\xE1s relajado despu\xE9s
+      del trabajo para conversar sobre nuestra problem\xE1tica. \xBFQu\xE9 les parece
+      si nos encontramos en un bar cercano esta tarde?"
+    speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+  background: {fileID: 21300000, guid: 6da97d0f02b5b7a4f8d844b8c2a08611, type: 3}
+  nextScene: {fileID: 11400000, guid: 63c8929f788abbe4c983e779542d6ab8, type: 2}

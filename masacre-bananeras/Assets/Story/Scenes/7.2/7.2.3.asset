@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 7.2.3
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "\xA1Jorge, te perdiste una gran noche ayer en el bar! Estuvimos hablando
+      sobre la Revoluci\xF3n Bolchevique. Fue un tema apasionante. "
+    speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+  - text: "S\xED, Jorge. Fue incre\xEDble ver c\xF3mo un grupo de trabajadores se
+      uni\xF3 y logr\xF3 tomar el control de su pa\xEDs para luchar por sus derechos
+      y mejores condiciones. "
+    speaker: {fileID: 11400000, guid: f0249a8e6b855b945a0374db78585c70, type: 2}
+  - text: "- Jorge escucha atentamente, pero su rostro muestra desilusi\xF3n."
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: "- Sus compa\xF1eros lo invitan a ser parte de las reuniones."
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: "\xBFQu\xE9 te parece si te unes a nuestras reuniones? Estamos discutiendo
+      ideas y estrategias para mejorar nuestras condiciones en el trabajo. "
+    speaker: {fileID: 11400000, guid: f0249a8e6b855b945a0374db78585c70, type: 2}
+  background: {fileID: 21300000, guid: bc0c7d30209b6f64b86d666889e9f544, type: 3}
+  nextScene: {fileID: 11400000, guid: 9e67642922aee4d49a144f521b600e3c, type: 2}

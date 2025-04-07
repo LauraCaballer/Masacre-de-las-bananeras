@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 3.1.2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "\xBFC\xF3mo te atreves a iniciar esta revuelta laboral? \xA1Eres un ingrato!"
+    speaker: {fileID: 11400000, guid: 208bcb60b3b8ff342b4d95e6f9df2825, type: 2}
+  - text: "\xA1No tolerar\xE9 que intentes perturbar la armon\xEDa de esta empresa
+      con tus demandas absurdas!"
+    speaker: {fileID: 11400000, guid: 208bcb60b3b8ff342b4d95e6f9df2825, type: 2}
+  - text: " \xA1Cuidado con tus palabras! No tolerar\xE9 insubordinaci\xF3n en mi
+      empresa. Te arrepentir\xE1s de esto."
+    speaker: {fileID: 11400000, guid: 208bcb60b3b8ff342b4d95e6f9df2825, type: 2}
+  background: {fileID: 21300000, guid: 1a3ab395ba83b4a48bb0987b887d3ff4, type: 3}
+  nextScene: {fileID: 11400000, guid: 1af787522c0f5f549905f31710577d6c, type: 2}

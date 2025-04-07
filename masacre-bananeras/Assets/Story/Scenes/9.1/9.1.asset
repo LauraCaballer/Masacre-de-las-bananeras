@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 9.1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Para que nuestra huelga sea efectiva, debemos establecer objetivos claros
+      y realistas. Identifiquemos las demandas que consideramos esenciales y present\xE9
+      moslas a la empresa."
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: "Compa\xF1eros y compa\xF1eras, hoy nos encontramos aqu\xED para dar el
+      siguiente paso en nuestra lucha por mejores condiciones laborales. "
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: "Hemos analizado nuestras situaciones y hemos desarrollado una serie de
+      propuestas de huelga que presentaremos a la direcci\xF3n de la empresa.  "
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  background: {fileID: 21300000, guid: 8041b4740c1176140b171da607d9c30d, type: 3}
+  nextScene: {fileID: 11400000, guid: 6c22ba56e19af484295285d3f70b9508, type: 2}

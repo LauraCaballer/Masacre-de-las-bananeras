@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 8.1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "- Jorge mira a su alrededor, viendo a sus compa\xF1eros preocupados y
+      cansados"
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: "Pero si no hacemos nada, \xBFc\xF3mo cambiar\xE1n las cosas? Estoy cansado
+      de ser tratado injustamente. "
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: "Tienes raz\xF3n, Jorge. Tal vez sea hora de que alguien hable en nombre
+      de todos nosotros. "
+    speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+  background: {fileID: 21300000, guid: 8041b4740c1176140b171da607d9c30d, type: 3}
+  nextScene: {fileID: 11400000, guid: 6a27a9a1ca9df8c41a61a9d09425b3ca, type: 2}

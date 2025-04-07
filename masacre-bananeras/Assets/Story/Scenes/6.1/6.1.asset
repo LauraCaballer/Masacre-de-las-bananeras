@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 6.1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Carlos, necesito hablar contigo. Es importante.
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: "\xBFQu\xE9 sucede, Jorge? Pareces inquieto. "
+    speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+  - text: "Escucha, he escuchado algunos rumores sobre el jefe. Parece que est\xE1
+      considerando poner fin a la huelga. "
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: "\xBFDe verdad? Pero llevamos semanas luchando por nuestras demandas. \xBFPor
+      qu\xE9 querr\xEDa hacer eso? "
+    speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+  - text: "No lo s\xE9 con certeza, pero parece que ha estado bajo mucha presi\xF3n
+      por parte de c\xF3mo la empresa pierde capital y se queda sin dinero."
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: "Esto no puede ser. No podemos permitir que todas nuestras demandas sean
+      ignoradas de esta manera. Debemos hablar con los dem\xE1s compa\xF1eros de
+      trabajo y planificar nuestra respuesta. "
+    speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+  background: {fileID: 21300000, guid: 4a49b6361a3cacb48bed53cbcc9c5912, type: 3}
+  nextScene: {fileID: 11400000, guid: 09cc194e35ff10947b97ee116f7bb7bf, type: 2}

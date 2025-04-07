@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 27
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "4 AM del siguiente d\xEDa, Jorge se prepara para ir a trabajar, despertando
+      con dificultad.  "
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: "Otro d\xEDa m\xE1s... \xA1Vamos, tienes que traer comida a casa!"
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  background: {fileID: 21300000, guid: 1bd5f012e9072ea4093148103d5a620a, type: 3}
+  nextScene: {fileID: 11400000, guid: 9a2be7b6f2fabed438a799622d9f0e4e, type: 2}

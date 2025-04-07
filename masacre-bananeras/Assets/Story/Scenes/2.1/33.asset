@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 33
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Realmente necesitaba la n\xF3mina este mes. Necesito comprar m\xE1s comida
+      para mi familia. \xBFQu\xE9 har\xE9 ahora?"
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  background: {fileID: 0}
+  nextScene: {fileID: 11400000, guid: f17aeaf82038e6d4288491f833269891, type: 2}
