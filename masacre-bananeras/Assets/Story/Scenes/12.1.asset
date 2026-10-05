@@ -15,7 +15,12 @@ MonoBehaviour:
   sentences:
   - text: Hoy no vecino, muchas gracias!
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 4748a65ed9c800b4293f6a0168dce6ee, type: 3}
+    sfx: {fileID: 0}
   - text: No hay de que, que tenga un buen dia en el trabajo.
     speaker: {fileID: 11400000, guid: c38de30696eb0c5459d604d20dfbf74e, type: 2}
+    voice: {fileID: 8300000, guid: b34652ce9fe4d084b9c64c54eb7b5e24, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 49a8e9c8afb2b1e4696dd7e62119b5d3, type: 3}
   nextScene: {fileID: 11400000, guid: e2093b3d901e9a44d93f3d78cfcd6f2c, type: 2}
+  ambience: {fileID: 0}

@@ -18,5 +18,8 @@ MonoBehaviour:
       un peque\xF1o partido pol\xEDtico, socialista para darle mejores condiciones
       a los trabajadores. "
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: c22956afc75461940a03a7151d093c7d, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: f4d4127e30d23c841834f91e128230d2, type: 3}
   nextScene: {fileID: 11400000, guid: dfbe4c2bd7445d2408b07a574f8ba26d, type: 2}
+  ambience: {fileID: 8300000, guid: c60adc5153f26b24f9e7ed3b9867e26f, type: 3}

@@ -16,9 +16,14 @@ MonoBehaviour:
   - text: "-Jorge y sus compa\xF1eros se unen a la multitud de trabajadores en una
       protesta pac\xEDfica. La atm\xF3sfera est\xE1 cargada de solidaridad y determinaci\xF3n."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: e1ea8034049e02b46a1b93d3f881c7bc, type: 3}
+    sfx: {fileID: 8300000, guid: 60a915a87e05a0a47994132f83621d63, type: 3}
   - text: "-De repente, el sonido de sirenas y la visi\xF3n de soldados rodeando
       el lugar interrumpen la manifestaci\xF3n. Jorge y los dem\xE1s trabajadores
       se miran, sorprendidos y asustados."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 6129eec3847bb174c8a5e7e12a226f10, type: 3}
+    sfx: {fileID: 8300000, guid: 06fd0b26edb1305429f6e5df8badddbd, type: 3}
   background: {fileID: 21300000, guid: b743e4d497fce0044ac834a43efc1dcb, type: 3}
   nextScene: {fileID: 11400000, guid: bca4986d5867a75419136038d516f2e8, type: 2}
+  ambience: {fileID: 8300000, guid: bdd8c55ac0856db439f14a7ae76e92b7, type: 3}

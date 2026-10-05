@@ -15,9 +15,16 @@ MonoBehaviour:
   sentences:
   - text: "\xA1Atenci\xF3n a todos!"
     speaker: {fileID: 11400000, guid: 208bcb60b3b8ff342b4d95e6f9df2825, type: 2}
+    voice: {fileID: 8300000, guid: 194f0e4a028e1764e9998cbf95c71822, type: 3}
+    sfx: {fileID: 8300000, guid: 215ede5b00ca00c438f98bd5eafc14b1, type: 3}
   - text: Tengo un importante anuncio que hacer
     speaker: {fileID: 11400000, guid: 208bcb60b3b8ff342b4d95e6f9df2825, type: 2}
+    voice: {fileID: 8300000, guid: 81bc05be910a4384a8fa3197e363556f, type: 3}
+    sfx: {fileID: 0}
   - text: " Informo que habr\xE1 un retraso en el pago de la n\xF3mina."
     speaker: {fileID: 11400000, guid: 208bcb60b3b8ff342b4d95e6f9df2825, type: 2}
+    voice: {fileID: 8300000, guid: 505c60c0bc51b7c4cb92b6bd33ce66ad, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: e012c5bab0f2b8241838b79f8f318277, type: 3}
   nextScene: {fileID: 11400000, guid: fedcf7ee944dfd040854f9a3881cdcac, type: 2}
+  ambience: {fileID: 8300000, guid: 46cead00fb9294545a995729825cf4de, type: 3}

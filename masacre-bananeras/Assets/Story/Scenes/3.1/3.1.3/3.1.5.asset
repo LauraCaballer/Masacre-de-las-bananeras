@@ -16,5 +16,8 @@ MonoBehaviour:
   - text: "Esa es una excelente idea. Un ambiente m\xE1s informal podr\xEDa facilitar
       una conversaci\xF3n m\xE1s abierta y sincera. "
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 3669242cf47a00f44b4ce175dba693e1, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 6da97d0f02b5b7a4f8d844b8c2a08611, type: 3}
   nextScene: {fileID: 11400000, guid: d77f8dcd46ab90846a1f5807995fb933, type: 2}
+  ambience: {fileID: 0}

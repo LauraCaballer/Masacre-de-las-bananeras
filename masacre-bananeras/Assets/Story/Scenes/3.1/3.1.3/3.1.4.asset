@@ -17,5 +17,8 @@ MonoBehaviour:
       del trabajo para conversar sobre nuestra problem\xE1tica. \xBFQu\xE9 les parece
       si nos encontramos en un bar cercano esta tarde?"
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: 09a237cba41cc1044bcc6d826fb84ca3, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: bc0c7d30209b6f64b86d666889e9f544, type: 3}
   nextScene: {fileID: 11400000, guid: bc79bfdc028000941a61d478bcaa7279, type: 2}
+  ambience: {fileID: 0}

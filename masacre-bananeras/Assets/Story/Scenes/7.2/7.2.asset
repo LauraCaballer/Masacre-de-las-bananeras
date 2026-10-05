@@ -16,5 +16,8 @@ MonoBehaviour:
   - text: "- Al d\xEDa siguiente en el trabajo, sus compa\xF1eros muy animados, comentan
       la noticia de la Revoluci\xF3n Bolchevique, la cual escucha muy desanimado."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 2df8e9fe397dbe140957b0c0f35953d8, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 6da97d0f02b5b7a4f8d844b8c2a08611, type: 3}
   nextScene: {fileID: 11400000, guid: a0cd038300408044ea3e03cf06a08d34, type: 2}
+  ambience: {fileID: 0}

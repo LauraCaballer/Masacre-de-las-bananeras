@@ -15,7 +15,12 @@ MonoBehaviour:
   sentences:
   - text: "Pap\xE1!!!"
     speaker: {fileID: 11400000, guid: 5aaf4f3842a502743a6a5e5af2b0aebb, type: 2}
+    voice: {fileID: 8300000, guid: a7615609b36b57346b7631c11c9d5478, type: 3}
+    sfx: {fileID: 8300000, guid: d994ebf79e9f6e04eacd8e0386425a0f, type: 3}
   - text: "Hola amor, \xBFcomo te fue hoy?"
     speaker: {fileID: 11400000, guid: 1974653b2130bb1458cf1970899c5df8, type: 2}
+    voice: {fileID: 8300000, guid: 34a9982f95078304788c2bdd50c1ed9a, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 63ab0631b6498294186806284114253b, type: 3}
   nextScene: {fileID: 11400000, guid: 58c93afddfa554941bc73b7ada96c8b8, type: 2}
+  ambience: {fileID: 8300000, guid: aeb30b34b4198dd4686c1e3d21f8cc60, type: 3}

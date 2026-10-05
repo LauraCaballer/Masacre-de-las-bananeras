@@ -15,7 +15,12 @@ MonoBehaviour:
   sentences:
   - text: Sigue participando activamente de las reuniones
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 0b6a25740d5e18e4a98b6c3a686c7316, type: 3}
+    sfx: {fileID: 0}
   - text: "5 DE DICIEMBRE\u2026. DIA DE LA PROTESTA"
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: f6cbd001df1fb954d912a4389c543fde, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 0c801e0272b99de44abec6de8ff44c4c, type: 3}
   nextScene: {fileID: 11400000, guid: 94df412bd531c77468cb3819a51f271c, type: 2}
+  ambience: {fileID: 0}

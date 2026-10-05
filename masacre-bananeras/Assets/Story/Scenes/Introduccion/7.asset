@@ -15,5 +15,8 @@ MonoBehaviour:
   sentences:
   - text: Oh, bendito Dios una moneda
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 823a45fd34dc14e4f9058e8f72e41831, type: 3}
+    sfx: {fileID: 8300000, guid: 82f2478207ebb364c9efdef25c377b86, type: 3}
   background: {fileID: 21300000, guid: af06a50f65120bd42bc218c00efdd451, type: 3}
   nextScene: {fileID: 11400000, guid: 612dc85c1ba5fe54693a0db3372d8596, type: 2}
+  ambience: {fileID: 8300000, guid: 5f3f675e58ecd8144860a52310b9accf, type: 3}

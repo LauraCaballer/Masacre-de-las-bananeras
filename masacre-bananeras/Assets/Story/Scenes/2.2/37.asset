@@ -16,5 +16,8 @@ MonoBehaviour:
   - text: '- Su jefe le ofrece dinero por encontrar a quienes han iniciado los rumores
       de una revuelta.     '
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 961be1d240066d84486a22b0fed8799f, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 1a3ab395ba83b4a48bb0987b887d3ff4, type: 3}
   nextScene: {fileID: 11400000, guid: 1c121d244f00d51468e91f6c3561d6b1, type: 2}
+  ambience: {fileID: 0}

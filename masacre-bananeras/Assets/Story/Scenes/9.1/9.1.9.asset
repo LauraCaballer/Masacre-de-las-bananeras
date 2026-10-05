@@ -16,11 +16,18 @@ MonoBehaviour:
   - text: "La escena se desvanece mientras Jorge sonr\xEDe y levanta la vista al
       cielo nocturno\u2026 sangrando por las balas y cayendo con sus compa\xF1eros"
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 4beefc4d159b6e24dae0d017a02f3fb0, type: 3}
+    sfx: {fileID: 8300000, guid: 6a6d986df3f55b442b68e823e22f7c9d, type: 3}
   - text: "Jorge se siente inspirado por el amor de su familia y la importancia de
       la causa por la que lucha. Finalmente\u2026 Jorge Fallece y su familia atesora
       su sacrificio y su ambici\xF3n"
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 335ef4de837189749ade7d2da62c71d1, type: 3}
+    sfx: {fileID: 8300000, guid: 884b4c405c8bb7f41a9f311debaf470d, type: 3}
   - text: FIN.
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: c500c9662d47cf544a7a2238cf1343ed, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 0c801e0272b99de44abec6de8ff44c4c, type: 3}
   nextScene: {fileID: 0}
+  ambience: {fileID: 0}

@@ -16,11 +16,18 @@ MonoBehaviour:
   - text: Debemos organizarnos, informarnos sobre nuestros derechos y luchar por
       un trato digno y equitativo.
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: c29038a1486c82e468038e8d3c9fe0af, type: 3}
+    sfx: {fileID: 0}
   - text: "\xA1S\xED, juntos podemos lograr un cambio! Debemos alzar la voz y luchar
       por condiciones laborales justas para todos nosotros."
     speaker: {fileID: 11400000, guid: f0249a8e6b855b945a0374db78585c70, type: 2}
+    voice: {fileID: 8300000, guid: 93013e90f0aa50245b724d79cb567f9b, type: 3}
+    sfx: {fileID: 0}
   - text: "No podemos quedarnos callados. Es hora de enfrentar esta explotaci\xF3n
       y defender nuestros derechos como trabajadores."
     speaker: {fileID: 11400000, guid: 2561f50956db1ac48a93886a5c3cd220, type: 2}
+    voice: {fileID: 8300000, guid: 98ecf8451ff54174bb7dcf6f66bbec1d, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 6da97d0f02b5b7a4f8d844b8c2a08611, type: 3}
   nextScene: {fileID: 11400000, guid: 1c84816a5f694f344a13f6e8d0966844, type: 2}
+  ambience: {fileID: 0}

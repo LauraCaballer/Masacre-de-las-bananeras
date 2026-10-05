@@ -15,11 +15,20 @@ MonoBehaviour:
   sentences:
   - text: Dios
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: df7df243c585b9342abe96063563ae3e, type: 3}
+    sfx: {fileID: 0}
   - text: Cada dia me siento mas cansado
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 46b139c2655749f4b943c206f130520b, type: 3}
+    sfx: {fileID: 0}
   - text: y ni siquiera alcanza para comer
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 810b416076fa00e4c9a0a0e0c75b3c15, type: 3}
+    sfx: {fileID: 0}
   - text: pero no puedo rendirme, todo sea por ellas
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: bba244909f6c0f042aba59e6ea248fd6, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 87d54fdbd997e494594f07e1a8a1c128, type: 3}
   nextScene: {fileID: 11400000, guid: 64da25780060e094b886ea756c3a9b7c, type: 2}
+  ambience: {fileID: 0}

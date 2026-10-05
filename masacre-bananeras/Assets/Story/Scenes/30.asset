@@ -15,5 +15,8 @@ MonoBehaviour:
   sentences:
   - text: "\xBFC\xF3mo est\xE1 nuestro compa\xF1ero? \xBFEs grave?"
     speaker: {fileID: 11400000, guid: f0249a8e6b855b945a0374db78585c70, type: 2}
+    voice: {fileID: 8300000, guid: eb650e301f548a24c98bffc0a5ad7a40, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: e7e0be5e0f408f742a26ee1d5189f1df, type: 3}
   nextScene: {fileID: 11400000, guid: 850d410790de57a47b5c5b0369f0fbcd, type: 2}
+  ambience: {fileID: 8300000, guid: 46cead00fb9294545a995729825cf4de, type: 3}

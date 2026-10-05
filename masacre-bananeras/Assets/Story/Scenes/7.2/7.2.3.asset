@@ -16,16 +16,27 @@ MonoBehaviour:
   - text: "\xA1Jorge, te perdiste una gran noche ayer en el bar! Estuvimos hablando
       sobre la Revoluci\xF3n Bolchevique. Fue un tema apasionante. "
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: 662f7032cdf17284d95e394413f1f975, type: 3}
+    sfx: {fileID: 0}
   - text: "S\xED, Jorge. Fue incre\xEDble ver c\xF3mo un grupo de trabajadores se
       uni\xF3 y logr\xF3 tomar el control de su pa\xEDs para luchar por sus derechos
       y mejores condiciones. "
     speaker: {fileID: 11400000, guid: f0249a8e6b855b945a0374db78585c70, type: 2}
+    voice: {fileID: 8300000, guid: f213a1289729329439047044bce1cb83, type: 3}
+    sfx: {fileID: 0}
   - text: "- Jorge escucha atentamente, pero su rostro muestra desilusi\xF3n."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 4764798cda2b0034e9a779f91297e5d0, type: 3}
+    sfx: {fileID: 0}
   - text: "- Sus compa\xF1eros lo invitan a ser parte de las reuniones."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: df04758bcf9069940abb620e6d30aa5e, type: 3}
+    sfx: {fileID: 0}
   - text: "\xBFQu\xE9 te parece si te unes a nuestras reuniones? Estamos discutiendo
       ideas y estrategias para mejorar nuestras condiciones en el trabajo. "
     speaker: {fileID: 11400000, guid: f0249a8e6b855b945a0374db78585c70, type: 2}
+    voice: {fileID: 8300000, guid: a924b505b4ff2ba4e847346f91d8d2b7, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: bc0c7d30209b6f64b86d666889e9f544, type: 3}
   nextScene: {fileID: 11400000, guid: 9e67642922aee4d49a144f521b600e3c, type: 2}
+  ambience: {fileID: 0}

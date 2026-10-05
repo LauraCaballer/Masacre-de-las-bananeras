@@ -16,11 +16,18 @@ MonoBehaviour:
   - text: "- Jorge y sus compa\xF1eros organizan manifestaciones pac\xEDficas, donde
       se unen trabajadores de diferentes empresas y sectores. "
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: c20ce34944a385147b73b5750015a967, type: 3}
+    sfx: {fileID: 0}
   - text: "- Los medios de comunicaci\xF3n informan sobre las protestas y el movimiento
       liderado por Jorge para mejorar las condiciones laborales."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 49f199c8e9c7f3846affdb0973f82780, type: 3}
+    sfx: {fileID: 0}
   - text: "- Jorge, ahora un s\xEDmbolo de la lucha obrera, celebra con sus compa\xF1eros
       mientras ven c\xF3mo el jefe de la empresa es llevado bajo custodia."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 991c4878d87ad4b498710a6183a6aa09, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 8041b4740c1176140b171da607d9c30d, type: 3}
   nextScene: {fileID: 11400000, guid: 7d6d9e3b13199f84c9cea9fd0aff2170, type: 2}
+  ambience: {fileID: 8300000, guid: bdd8c55ac0856db439f14a7ae76e92b7, type: 3}

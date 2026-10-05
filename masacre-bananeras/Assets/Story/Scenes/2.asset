@@ -16,5 +16,8 @@ MonoBehaviour:
   - text: " Aunque el salario era bajo y las condiciones laborales no eran las mejores,
       se esforzaba cada d\xEDa para poder dar lo mejor de s\xED y proveer\_a\_su\_familia."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 7545a5fb8656d2e45bf7e22c0c5575d3, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 8f924fa4ab106864ea90347089d5b271, type: 3}
   nextScene: {fileID: 11400000, guid: 322cc1a5845dec844a3dab162f68e0ff, type: 2}
+  ambience: {fileID: 0}

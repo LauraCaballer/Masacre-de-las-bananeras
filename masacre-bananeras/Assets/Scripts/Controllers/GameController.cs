@@ -21,6 +21,7 @@ public class GameController : MonoBehaviour
         if (currentScene is StoryScene)
         {
             StoryScene storyScene = currentScene as StoryScene;
+            AudioController.Instance.SetAmbience(storyScene.ambience);
             bottomBar.PlayScene(storyScene);
             backgroundController.SetImage(storyScene.background);
         }
@@ -30,16 +31,25 @@ public class GameController : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0))
         {
-            if (state == State.IDLE && bottomBar.IsCompleted())
+            if (state != State.IDLE)
             {
-                if (bottomBar.IsLastSentence())
-                {
-                    PlayScene((currentScene as StoryScene).nextScene);
-                }
-                else
-                {
-                    bottomBar.PlayNextSentence();
-                }
+                return;
+            }
+            if (!bottomBar.IsCompleted())
+            {
+                // Clic mientras se escribe: mostrar la frase completa, la voz sigue.
+                bottomBar.SkipTyping();
+                return;
+            }
+            // Clic con la frase completa: cortar la voz y avanzar sin esperar al audio.
+            AudioController.Instance.StopVoice();
+            if (bottomBar.IsLastSentence())
+            {
+                PlayScene((currentScene as StoryScene).nextScene);
+            }
+            else
+            {
+                bottomBar.PlayNextSentence();
             }
         }
     }
@@ -53,11 +63,13 @@ public class GameController : MonoBehaviour
     {
         state = State.ANIMATE;
         currentScene = scene;
+        AudioController.Instance.StopVoice();
         bottomBar.Hide();
         yield return new WaitForSeconds(1f);
         if (scene is StoryScene)
         {
             StoryScene storyScene = scene as StoryScene;
+            AudioController.Instance.SetAmbience(storyScene.ambience);
             backgroundController.SwitchImage(storyScene.background);
             yield return new WaitForSeconds(1f);
             bottomBar.ClearText();
@@ -69,6 +81,7 @@ public class GameController : MonoBehaviour
         else if (scene is ChooseScene)
         {
             state = State.CHOOSE;
+            AudioController.Instance.StopVoice();
             chooseController.SetupChoose(scene as ChooseScene);
         }
     }

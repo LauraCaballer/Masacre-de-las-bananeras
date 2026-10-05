@@ -15,9 +15,16 @@ MonoBehaviour:
   sentences:
   - text: "\xA1Peri\xF3dicos! \xA1Lleven su peri\xF3dico!"
     speaker: {fileID: 11400000, guid: c38de30696eb0c5459d604d20dfbf74e, type: 2}
+    voice: {fileID: 8300000, guid: 8aa3fc48d0ecf1f4fa6d1b095665a14f, type: 3}
+    sfx: {fileID: 8300000, guid: fd66274cddf289b4ebc469d05746e722, type: 3}
   - text: Las noticias de ultimo momento del pais y del mundo!!
     speaker: {fileID: 11400000, guid: c38de30696eb0c5459d604d20dfbf74e, type: 2}
+    voice: {fileID: 8300000, guid: c71183a966a492447b0812c35d5985f4, type: 3}
+    sfx: {fileID: 0}
   - text: "\xA1No se lo pierdan!"
     speaker: {fileID: 11400000, guid: c38de30696eb0c5459d604d20dfbf74e, type: 2}
+    voice: {fileID: 8300000, guid: 7164db8183a4baa438d4f558771a3976, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: cb2704f8179ab714e8c405ffc9ae54bc, type: 3}
   nextScene: {fileID: 11400000, guid: b987ec53a79214746a07b23e0c5ef659, type: 2}
+  ambience: {fileID: 8300000, guid: 5f3f675e58ecd8144860a52310b9accf, type: 3}

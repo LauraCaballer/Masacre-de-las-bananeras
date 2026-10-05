@@ -15,15 +15,28 @@ MonoBehaviour:
   sentences:
   - text: Todo bien amor, estoy algo cansado
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 2196327e8d43cd34da79a6ca16ffb3f3, type: 3}
+    sfx: {fileID: 0}
   - text: "Pap\xE1, ya se leer, la profesora me dijo que voy muy bien!"
     speaker: {fileID: 11400000, guid: 5aaf4f3842a502743a6a5e5af2b0aebb, type: 2}
+    voice: {fileID: 8300000, guid: 3250a6b9d790c8d43bb3b9206a1d9669, type: 3}
+    sfx: {fileID: 0}
   - text: "Ouuuuh, \xBFen serio? "
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 209f436e74b0bdb4cb7f79f46d9a2d66, type: 3}
+    sfx: {fileID: 0}
   - text: Que inteligente eres mi princesa
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 2bdae8dbec760b44888f958d0baecf00, type: 3}
+    sfx: {fileID: 0}
   - text: "\xBFVerdad que si?"
     speaker: {fileID: 11400000, guid: 5aaf4f3842a502743a6a5e5af2b0aebb, type: 2}
+    voice: {fileID: 8300000, guid: dba74d6c88b381445a9cb1511f667de1, type: 3}
+    sfx: {fileID: 0}
   - text: Bueno julieta ya deja a tu padre, esta algo cansado
     speaker: {fileID: 11400000, guid: 1974653b2130bb1458cf1970899c5df8, type: 2}
+    voice: {fileID: 8300000, guid: c1cf457ea6e5c524ab331dd9208cd152, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: d40bd8eea322b8d4e9df306e6c6eae67, type: 3}
   nextScene: {fileID: 11400000, guid: f7a6afd0ece8c9047ade7c9d5d03e602, type: 2}
+  ambience: {fileID: 8300000, guid: aeb30b34b4198dd4686c1e3d21f8cc60, type: 3}

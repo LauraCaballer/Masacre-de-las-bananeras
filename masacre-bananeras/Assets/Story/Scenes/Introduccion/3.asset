@@ -16,8 +16,13 @@ MonoBehaviour:
   - text: "Sin embargo, todo cambi\xF3 cuando la empresa decidi\xF3 reducir los salarios
       y aumentar las horas de trabajo sin\_previo\_aviso."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: e5529cc014f5562428f6b37b3ee2ba14, type: 3}
+    sfx: {fileID: 0}
   - text: "El ambiente laboral se volvi\xF3 cada vez m\xE1s tenso y los trabajadores
       comenzaron a sufrir maltrato por parte de\_sus\_superiores."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 9e24baf579cad284791f05ee6d8a129c, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: cde6d14355fe5ec4fa8e12b72fcc1c14, type: 3}
   nextScene: {fileID: 11400000, guid: e49ff8b3e9d38a644b6bb73e0ed39ffa, type: 2}
+  ambience: {fileID: 0}

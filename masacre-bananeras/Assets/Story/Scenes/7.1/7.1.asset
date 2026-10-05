@@ -16,5 +16,8 @@ MonoBehaviour:
   - text: "\xA1Chicos, la reunion comienza hoy! Estamos listos para luchar por nuestros
       derechos. "
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: ffc61cca09597f340872b6f37935c51b, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: bc0c7d30209b6f64b86d666889e9f544, type: 3}
   nextScene: {fileID: 11400000, guid: 65db22c4650270743b41a7828e8f6171, type: 2}
+  ambience: {fileID: 8300000, guid: c60adc5153f26b24f9e7ed3b9867e26f, type: 3}

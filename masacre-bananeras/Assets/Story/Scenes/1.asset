@@ -15,10 +15,17 @@ MonoBehaviour:
   sentences:
   - text: Contexto
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 0722b7787014dc242a3fc602753138fb, type: 3}
+    sfx: {fileID: 0}
   - text: 1928 | Cienaga Magdalena
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: bb1a2ad69c03cd14191cd191084835f4, type: 3}
+    sfx: {fileID: 0}
   - text: "La empresa, ha establecido plantaciones, en varias regiones del pa\xEDs,
       especialmente en la Costa, convirtiendose en uno de los mayores empleadores\_del\_pa\xEDs."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 303ab2cf50657e341bdd70ba5b6a36ee, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 2a7392159b5ac9949b90045d0d0d5365, type: 3}
   nextScene: {fileID: 11400000, guid: 5a227718f9adde8459ae4099f6eafac6, type: 2}
+  ambience: {fileID: 0}

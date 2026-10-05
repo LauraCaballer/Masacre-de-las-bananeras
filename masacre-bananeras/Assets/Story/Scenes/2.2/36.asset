@@ -15,5 +15,8 @@ MonoBehaviour:
   sentences:
   - text: '- El jefe se percata del ambiente pesado que hay en la empresa.  '
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: cea6f9e054d3afa42b5c232c03dbb504, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: e012c5bab0f2b8241838b79f8f318277, type: 3}
   nextScene: {fileID: 11400000, guid: bdb519d57255d7648bf9ce73a98d397f, type: 2}
+  ambience: {fileID: 0}

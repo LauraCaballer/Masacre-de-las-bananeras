@@ -15,7 +15,12 @@ MonoBehaviour:
   sentences:
   - text: Pero solo lo unico que le queda es seguir regresando a su trabajo
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 4145c879359893c45b59eb442094d696, type: 3}
+    sfx: {fileID: 0}
   - text: ...
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 0}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 0c801e0272b99de44abec6de8ff44c4c, type: 3}
   nextScene: {fileID: 11400000, guid: 1062453e6d7d8c54091318bcc71038b3, type: 2}
+  ambience: {fileID: 0}

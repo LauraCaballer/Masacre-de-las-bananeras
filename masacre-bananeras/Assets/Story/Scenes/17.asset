@@ -15,22 +15,39 @@ MonoBehaviour:
   sentences:
   - text: "Buenos dias se\xF1or Jorge"
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: 2caadea162d88fa499dfc8c7d7509417, type: 3}
+    sfx: {fileID: 8300000, guid: 9ad189636f0a2ea408c69b10608b75df, type: 3}
   - text: "Buenos d\xEDas, Carlos. \xBFC\xF3mo te fue esta semana?"
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 9208221f9611fb14ea0fb46a23891fb5, type: 3}
+    sfx: {fileID: 0}
   - text: Te noto algo decaido
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: 489baa74dfaa3874d93c22195ce99c02, type: 3}
+    sfx: {fileID: 0}
   - text: uh...
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: 02166eaa83e7e384a847c7574383cf18, type: 3}
+    sfx: {fileID: 0}
   - text: "Solo me siento mal... fue el cumplea\xF1os de mi hermana peque\xF1a pero
       no pude darle nada."
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: 4c2c78d0eb01c2e498ceafff9e209e10, type: 3}
+    sfx: {fileID: 0}
   - text: Intente hablar con los jefes para que me dieran algo por adelantado pero
       nada
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: 8997d80c875a2c549a92a55ce17b308e, type: 3}
+    sfx: {fileID: 0}
   - text: "Oye, ven ac\xE1. S\xE9 que las cosas est\xE1n dif\xEDciles, pero s\xE9
       que pronto todo mejorar\xE1."
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: f34bab84f3b31034fa7270a67efcdc81, type: 3}
+    sfx: {fileID: 0}
   - text: Ojala tener tu optimismo, pero lo dudo.
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: b48eae9617dfdb24d826ffd29b915e9c, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 4a49b6361a3cacb48bed53cbcc9c5912, type: 3}
   nextScene: {fileID: 11400000, guid: 798ab7c2b5d9ab44c9dfab1a9e6940ba, type: 2}
+  ambience: {fileID: 8300000, guid: 46cead00fb9294545a995729825cf4de, type: 3}

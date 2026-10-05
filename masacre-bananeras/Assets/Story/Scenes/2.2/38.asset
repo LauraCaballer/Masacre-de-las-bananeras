@@ -17,5 +17,8 @@ MonoBehaviour:
       de Jorge. \xC9l decide no responder y retirarse del lugar a meditar sobre lo
       sucedido."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: d3194f8dbc5e4c347a680a12c5c91000, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: e1832f34169f6ae4d9e958857a862261, type: 3}
   nextScene: {fileID: 11400000, guid: 3f49d1477adb478409144fdddff653b4, type: 2}
+  ambience: {fileID: 0}

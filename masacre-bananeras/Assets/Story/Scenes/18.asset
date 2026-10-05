@@ -15,5 +15,8 @@ MonoBehaviour:
   sentences:
   - text: Suerte en tu trabajo Jorge, nos vemos mas tarde.
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: 1fa6ef3946353db43ac1290b9c598f72, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 4e73ae64f13f6d44684cce808fea7ed6, type: 3}
   nextScene: {fileID: 11400000, guid: 0d5559723adcaf14bb90aefa3691d43d, type: 2}
+  ambience: {fileID: 8300000, guid: 46cead00fb9294545a995729825cf4de, type: 3}

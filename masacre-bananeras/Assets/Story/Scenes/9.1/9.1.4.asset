@@ -15,5 +15,8 @@ MonoBehaviour:
   sentences:
   - text: "Estamos contigo, pap\xE1. Queremos que tengas un trabajo donde te valoren. "
     speaker: {fileID: 11400000, guid: 5aaf4f3842a502743a6a5e5af2b0aebb, type: 2}
+    voice: {fileID: 8300000, guid: 6ddc4f5292ed6334f84af09a707afd1b, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 7c0f5d507df2e9b468f40bdd84bf3612, type: 3}
   nextScene: {fileID: 11400000, guid: fbdb1dcb71fdccc4c8366b6b62eda18f, type: 2}
+  ambience: {fileID: 0}

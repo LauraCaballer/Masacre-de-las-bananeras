@@ -16,10 +16,15 @@ MonoBehaviour:
   - text: "\xA1ATENCI\xD3N A TODOS! NECESITO QUE ESCUCHEN LO \xDALTIMO QUE EST\xC1
       PASANDO EN EL MUNDO."
     speaker: {fileID: 11400000, guid: c38de30696eb0c5459d604d20dfbf74e, type: 2}
+    voice: {fileID: 8300000, guid: af01643d74a796745b3e1ecd81be80b1, type: 3}
+    sfx: {fileID: 0}
   - text: "Hoy, en Rusia, se ha llevado a cabo una revoluci\xF3n que marca un hito
       en la historia. El pueblo se ha levantado y ha establecido la primera rep\xFAblica
       socialista, enfocada en mejorar las condiciones laborales y garantizar la igualdad
       para todos los trabajadores"
     speaker: {fileID: 11400000, guid: c38de30696eb0c5459d604d20dfbf74e, type: 2}
+    voice: {fileID: 8300000, guid: ace3f9cc8bb895546a04615ccedcbede, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 6940b14485fd8674fbd85f6572ebfaaf, type: 3}
   nextScene: {fileID: 11400000, guid: 4001998c2da17ad4f843bcf1ac47f5be, type: 2}
+  ambience: {fileID: 8300000, guid: c60adc5153f26b24f9e7ed3b9867e26f, type: 3}

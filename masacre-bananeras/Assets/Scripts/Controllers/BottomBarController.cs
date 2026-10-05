@@ -13,6 +13,7 @@ public class BottomBarController : MonoBehaviour
     private State state = State.COMPLETED;
     private Animator animator;
     private bool isHidden = false;
+    private bool skipTyping = false;
 
     private enum State
     {
@@ -53,9 +54,22 @@ public class BottomBarController : MonoBehaviour
 
     public void PlayNextSentence()
     {
-        StartCoroutine(TypeText(currentScene.sentences[++sentenceIndex].text));
-        personNameText.text = currentScene.sentences[sentenceIndex].speaker.speakerName;
-        personNameText.color = currentScene.sentences[sentenceIndex].speaker.textColor;
+        StoryScene.Sentence sentence = currentScene.sentences[++sentenceIndex];
+        StartCoroutine(TypeText(sentence.text));
+        personNameText.text = sentence.speaker.speakerName;
+        personNameText.color = sentence.speaker.textColor;
+        // Nunca suenan dos voces a la vez: PlayVoice corta la anterior.
+        AudioController.Instance.PlayVoice(sentence.voice);
+        AudioController.Instance.PlaySfx(sentence.sfx);
+    }
+
+    /// <summary>Completa de golpe el texto que se esta escribiendo; la voz sigue sonando.</summary>
+    public void SkipTyping()
+    {
+        if (state == State.PLAYING)
+        {
+            skipTyping = true;
+        }
     }
 
     public bool IsCompleted()
@@ -72,10 +86,17 @@ public class BottomBarController : MonoBehaviour
     {
         barText.text = "";
         state = State.PLAYING;
+        skipTyping = false;
         int wordIndex = 0;
 
         while (state != State.COMPLETED)
         {
+            if (skipTyping)
+            {
+                barText.text = text;
+                state = State.COMPLETED;
+                break;
+            }
             barText.text += text[wordIndex];
             yield return new WaitForSeconds(0.01f);
             if(++wordIndex == text.Length)
@@ -84,5 +105,6 @@ public class BottomBarController : MonoBehaviour
                 break;
             }
         }
+        skipTyping = false;
     }
 }

@@ -16,5 +16,8 @@ MonoBehaviour:
   - text: "- Jorge se encuentra con expresi\xF3n desanimada. Sus compa\xF1eros entran
       alborotados y emocionados."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 47eea302a1d87ef44ac95d39b693cbf3, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 4e73ae64f13f6d44684cce808fea7ed6, type: 3}
   nextScene: {fileID: 11400000, guid: 6dd500f61951f3f459f78decaf47168b, type: 2}
+  ambience: {fileID: 0}

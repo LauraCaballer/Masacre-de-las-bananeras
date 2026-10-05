@@ -15,11 +15,18 @@ MonoBehaviour:
   sentences:
   - text: " \xA1Esto es inaceptable! \xA1No podemos permitir que nos traten as\xED!"
     speaker: {fileID: 11400000, guid: f0249a8e6b855b945a0374db78585c70, type: 2}
+    voice: {fileID: 8300000, guid: ced858df99919424f8d21ee5a2a4f49a, type: 3}
+    sfx: {fileID: 0}
   - text: "\xA1No puedo creer que estemos trabajando tantas horas sin recibir una
       compensaci\xF3n justa!"
     speaker: {fileID: 11400000, guid: e77acf8e274b2f447b37a3ee48149dff, type: 2}
+    voice: {fileID: 8300000, guid: 412c39339fbf0744d81ccc67ed943a7e, type: 3}
+    sfx: {fileID: 0}
   - text: "Es cierto, estamos siendo explotados. Nuestro tiempo y esfuerzo no est\xE1n
       siendo valorados."
     speaker: {fileID: 11400000, guid: 2561f50956db1ac48a93886a5c3cd220, type: 2}
+    voice: {fileID: 8300000, guid: 23944c0fc62dd884b862ac6ab1a30027, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 6da97d0f02b5b7a4f8d844b8c2a08611, type: 3}
   nextScene: {fileID: 11400000, guid: 7767bd628e4a29249a1ca580f85f6a23, type: 2}
+  ambience: {fileID: 0}

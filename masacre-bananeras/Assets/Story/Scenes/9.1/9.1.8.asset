@@ -16,5 +16,8 @@ MonoBehaviour:
   - text: "- Mientras los soldados se preparan, Jorge cierra los ojos, toma una profunda
       respiraci\xF3n y se llena de coraje."
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 5f436078137ee1e4bb99c9be31a70e1a, type: 3}
+    sfx: {fileID: 8300000, guid: 5543c6ae25d148442a1bd4a5abf372cb, type: 3}
   background: {fileID: 21300000, guid: 144044630d6641047bb41b814c1d069d, type: 3}
   nextScene: {fileID: 11400000, guid: d33739712f064b644b3e32c0601c0f3d, type: 2}
+  ambience: {fileID: 0}

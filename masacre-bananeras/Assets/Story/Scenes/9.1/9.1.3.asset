@@ -15,8 +15,13 @@ MonoBehaviour:
   sentences:
   - text: 'Jorge, me preocupa que te pueden despedir si participas en esta protesta. '
     speaker: {fileID: 11400000, guid: 1974653b2130bb1458cf1970899c5df8, type: 2}
+    voice: {fileID: 8300000, guid: c6c2eec51e283bc47a7d31b9b0b2a1f3, type: 3}
+    sfx: {fileID: 0}
   - text: "Entiendo tus preocupaciones, pero tambi\xE9n creo que tenemos que luchar
       por nuestros derechos. No podemos seguir siendo tratados injustamente. "
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: f898afdab0163494c882838038599346, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: d40bd8eea322b8d4e9df306e6c6eae67, type: 3}
   nextScene: {fileID: 11400000, guid: 742168f8fcc33b44084c8dcadab0ac96, type: 2}
+  ambience: {fileID: 0}

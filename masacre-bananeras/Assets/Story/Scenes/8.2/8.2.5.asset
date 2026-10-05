@@ -16,9 +16,14 @@ MonoBehaviour:
   - text: "\xBFY qu\xE9 piensas hacer al respecto?... Has perdido, ya no puedes hacer
       nada por tus miserables compa\xF1eros"
     speaker: {fileID: 11400000, guid: 208bcb60b3b8ff342b4d95e6f9df2825, type: 2}
+    voice: {fileID: 8300000, guid: 6adbc7e96709b7c47a81ba0fa3c080ed, type: 3}
+    sfx: {fileID: 0}
   - text: "Yo vengar\xE9 a aquellos que cayeron por su culpa, y usted, miserable
       monstruo sin coraz\xF3n\u2026 pagar\xE1 por todo el da\xF1o que le hizo a esa
       pobre gente inocente, \xA1Lo juro! "
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: eb014201bd5c5d343809ff046c11e92c, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: e012c5bab0f2b8241838b79f8f318277, type: 3}
   nextScene: {fileID: 11400000, guid: 0f5be14494dd0874f89f295ea07fa50f, type: 2}
+  ambience: {fileID: 0}

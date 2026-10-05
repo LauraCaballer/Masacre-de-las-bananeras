@@ -15,5 +15,8 @@ MonoBehaviour:
   sentences:
   - text: ...
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 0}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 0c801e0272b99de44abec6de8ff44c4c, type: 3}
   nextScene: {fileID: 11400000, guid: 21b4aee031e727b4fba89d7c4a06ace9, type: 2}
+  ambience: {fileID: 0}

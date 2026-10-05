@@ -16,7 +16,12 @@ MonoBehaviour:
   - text: "4 AM del siguiente d\xEDa, Jorge se prepara para ir a trabajar, despertando
       con dificultad.  "
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    voice: {fileID: 8300000, guid: 2d2049ab079a30c489e61aad8a29a9f9, type: 3}
+    sfx: {fileID: 8300000, guid: 31c8910c755c9ec41a663a2d82fb580e, type: 3}
   - text: "Otro d\xEDa m\xE1s... \xA1Vamos, tienes que traer comida a casa!"
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    voice: {fileID: 8300000, guid: ae30e08c5f9d0864aabcf0a313a8a4e1, type: 3}
+    sfx: {fileID: 0}
   background: {fileID: 21300000, guid: 1bd5f012e9072ea4093148103d5a620a, type: 3}
   nextScene: {fileID: 11400000, guid: 9a2be7b6f2fabed438a799622d9f0e4e, type: 2}
+  ambience: {fileID: 0}
